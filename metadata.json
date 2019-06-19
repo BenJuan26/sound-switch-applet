@@ -1,0 +1,6 @@
+{
+    "uuid": "switch-audio@benjuan26.com",
+    "name": "Switch Audio",
+    "description": "Click to switch the audio output device",
+    "icon": "audio-headphones-symbolic.symbolic"
+}
