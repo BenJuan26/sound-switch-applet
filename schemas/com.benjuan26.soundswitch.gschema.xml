@@ -1,0 +1,9 @@
+<schemalist>
+	<schema id="com.benjuan26.soundswitch" path="/com/benjuan26/soundswitch/">
+    <key type="s" name="device">
+      <default>"analog-output-lineout"</default>
+      <summary>The current audio output device</summary>
+      <description/>
+    </key>
+  </schema>
+</schemalist>
